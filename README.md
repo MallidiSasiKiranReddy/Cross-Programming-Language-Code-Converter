@@ -48,7 +48,7 @@ Go to Google AI Studio and generate an API key.
 ### 5️⃣ Run the Application
 streamlit run app.py
 
-Usage
+Usage<br>
 1️⃣ Enter your code snippet in the input box.<br>
 2️⃣ Choose the target programming language.<br>
 3️⃣ Click Translate and get the converted code.<br>
