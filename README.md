@@ -30,7 +30,7 @@
 ## ⚙️ Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-```sh
+
 git clone https://github.com/your-username/code-translator.git
 cd code-translator
 
