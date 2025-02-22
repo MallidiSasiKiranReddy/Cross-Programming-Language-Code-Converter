@@ -49,12 +49,12 @@ Go to Google AI Studio and generate an API key.
 streamlit run app.py
 
 Usage
-1️⃣ Enter your code snippet in the input box.
-2️⃣ Choose the target programming language.
-3️⃣ Click Translate and get the converted code.
+1️⃣ Enter your code snippet in the input box.<br>
+2️⃣ Choose the target programming language.<br>
+3️⃣ Click Translate and get the converted code.<br>
 
 📜 Technologies Used
-Python 
-Streamlit 
-Google Gemini API 
-Virtual Environment 🖥
+Python <br>
+Streamlit <br>
+Google Gemini API <br>
+Virtual Environment <br>
