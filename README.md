@@ -34,18 +34,18 @@
 git clone https://github.com/your-username/code-translator.git
 cd code-translator
 
-2️⃣ Set Up a Virtual Environment
+### 2️⃣ Set Up a Virtual Environment
 python -m venv venv
 source venv/bin/activate  # For Mac/Linux
 venv\Scripts\activate  # For Windows
 
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-4️⃣ Add Google API Key
+### 4️⃣ Add Google API Key
 Go to Google AI Studio and generate an API key.
 
-5️⃣ Run the Application
+### 5️⃣ Run the Application
 streamlit run app.py
 
 Usage
