@@ -5,7 +5,7 @@ genai.configure(api_key="AIzaSyB-lhEDlpWnXHr1bqaDYFRLoS4GpCys3iA")
 # Define model to be used
 model = genai.GenerativeModel("gemini-pro")
 
-# Define function to translate code from one language to other
+# Define function to translate code from one language to other language
 def translate_code(code_snippet,target_language):
     prompt=f"Translate the following code to {target_language}:\n\n{code_snippet}"
     chat = model.start_chat(history=[])
